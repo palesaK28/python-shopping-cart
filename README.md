@@ -15,4 +15,5 @@ A simple command-line shopping cart simulation built in Python.
 3. Run:
    ```bash
    python shopping_cart.py 
-![App Screenshot](<img width="1920" height="1008" alt="Screenshot 2025-08-05 143910" src="https://github.com/user-attachments/assets/b17c375a-5ca8-4ef1-9379-53bb87964904" />)
+![App Screenshot]
+<img width="1920" height="1008" alt="Screenshot 2025-08-05 143910" src="https://github.com/user-attachments/assets/3095759c-0238-448f-9c65-1e9dbe59749b" />
